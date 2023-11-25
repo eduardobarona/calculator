@@ -83,6 +83,7 @@ body{
     height: 0.9rem;
     grid-column: 3;
     margin-top: -0.5rem;
+    margin-left: -0.75rem;
 }
 
 .lightModeBody{
