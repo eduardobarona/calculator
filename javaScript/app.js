@@ -1,5 +1,8 @@
 const screen = document.querySelector(".calculator_screen");
 const buttons = document.querySelectorAll(".calculator_btn");
+const switchMode = document.getElementById("switchMode");
+const calculator = document.querySelector(".calculator");
+const body = document.body;
 
 buttons.forEach(button =>{
     button.addEventListener("click", ()=>{
@@ -33,5 +36,18 @@ buttons.forEach(button =>{
         } else{
             screen.textContent+=buttonHold;
         };
+    });
+});
+
+
+//Switch - Dark Mode to Light Mode
+
+switchMode.addEventListener("click",()=>{
+    body.classList.toggle("lightModeBody");
+    calculator.classList.toggle("lightModeCalculator");
+    screen.classList.toggle("lightModeScreen");
+    switchMode.classList.toggle("lightModeSwitch");
+    buttons.forEach(button =>{
+        button.classList.toggle("lightModeButtons");
     });
 });
