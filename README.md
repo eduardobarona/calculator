@@ -22,6 +22,7 @@ Este proyecto es una calculadora funcional diseñada para practicar habilidades 
 1. Clona el repositorio a tu máquina local.
 2. Abre el archivo `index.html` en tu navegador web.
 3. ¡Disfruta de la calculadora funcional!
+4. También puedes verlo desde aquí: https://calculator-edubarona.netlify.app/
 
 ## Personalización
 
