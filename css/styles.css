@@ -35,7 +35,12 @@ body{
     margin-bottom: 1rem;
     font-family: monospace;
     font-weight: 600;
+    overflow-x: scroll;
 }
+
+.calculator_screen::-webkit-scrollbar {
+    display: none;
+  }
 
 .calculator_btn{
     background-color: #15173c;
@@ -47,7 +52,7 @@ body{
     align-items: center;
     border-radius: 0.5rem;
     cursor: pointer;
-    font-weight: 500;
+    font-weight: 700;
 }
 
 .calculator_btn:hover{

@@ -21,7 +21,7 @@ buttons.forEach(button =>{
 
         if(button.id==="equal"){
             try{
-                screen.textContent = eval(screen.textContent);
+                screen.textContent = eval(screen.textContent)%1===0 ? eval(screen.textContent) : eval(screen.textContent).toFixed(2);
             }catch{
                 screen.textContent = "ERROR";
             };
