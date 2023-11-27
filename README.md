@@ -1,38 +1,38 @@
-# Calculadora Funcional con Dark Mode y Light Mode
+# Functional Calculator with Dark Mode and Light Mode
 
-¡Bienvenido al proyecto de la Calculadora Funcional de Eduardo Barona!
+Welcome to the Functional Calculator project by Eduardo Barona!
 
-## Descripción
+## Description
 
-Este proyecto es una calculadora funcional diseñada para practicar habilidades en HTML, CSS y JavaScript. La calculadora tiene la capacidad de cambiar entre modos de color (Dark Mode y Light Mode) mediante un interruptor.
+This project is a functional calculator designed to practice skills in HTML, CSS, and JavaScript. The calculator has the ability to switch between color modes (Dark Mode and Light Mode) using a toggle switch.
 
-## Funcionalidades
+## Features
 
-- Realiza operaciones básicas de suma, resta, multiplicación y división.
-- Cambia entre Dark Mode y Light Mode para personalizar la apariencia.
+- Performs basic operations such as addition, subtraction, multiplication, and division.
+- Switch between Dark Mode and Light Mode to customize the appearance.
 
-## Tecnologías Utilizadas
+## Technologies Used
 
 - HTML
 - CSS
 - JavaScript
 
-## Instrucciones de Uso
+## Usage Instructions
 
-1. Clona el repositorio a tu máquina local.
-2. Abre el archivo `index.html` en tu navegador web.
-3. ¡Disfruta de la calculadora funcional!
-4. También puedes verlo desde aquí: https://calculator-edubarona.netlify.app/
+1. Clone the repository to your local machine.
+2. Open the `index.html` file in your web browser.
+3. Enjoy the functional calculator!
+4. You can also view it here: [Calculator Demo](https://calculator-edubarona.netlify.app/)
 
-## Personalización
+## Customization
 
-Siéntete libre de personalizar y mejorar este proyecto. Puedes agregar nuevas funciones, mejorar el diseño o ajustar el código según tus preferencias.
+Feel free to customize and enhance this project. You can add new features, improve the design, or adjust the code to fit your preferences.
 
-## Autor
+## Author
 
 - Eduardo Barona
 
-## Contribuciones
+## Contributions
 
-¡Las contribuciones son bienvenidas! Si encuentras algún error o tienes ideas para mejorar la calculadora, no dudes en abrir un problema o enviar una solicitud de extracción.
+Contributions are welcome! If you find any issues or have ideas to improve the calculator, feel free to open an issue or submit a pull request.
 
